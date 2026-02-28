@@ -1,10 +1,10 @@
-#Nombre de Proyecto
+## Nombre de Proyecto
 Proyecto Java 01
 
-##Descripción
+##v Descripción
 Proyect creado en el lenguaje de Java para demostración
 
-##Tecnologías
+## Tecnologías
 - Java
 
 ## Como Ejecutar
