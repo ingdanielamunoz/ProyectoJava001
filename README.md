@@ -1,7 +1,7 @@
 ## Nombre de Proyecto
 Proyecto Java 01
 
-##v Descripción
+## Descripción
 Proyect creado en el lenguaje de Java para demostración
 
 ## Tecnologías
