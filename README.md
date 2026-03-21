@@ -1,4 +1,4 @@
- #[Nombre del Sistema]
+# [Nombre del Sistema]
 **Materia:** Estructura de Datos 
 **Profesora:** Ing. Paula Daniela Muñoz Zárate 
 **Fecha:** 25 de abril del 2026
