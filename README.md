@@ -1,11 +1,19 @@
-## Nombre de Proyecto
-Proyecto Java 01
-
+ #[Nombre del Sistema]
+**Materia:** Estructura de Datos 
+**Profesora:** Ing. Paula Daniela Muñoz Zárate 
+**Fecha:** 25 de abril del 2026
 ## Descripción
-Proyect creado en el lenguaje de Java para demostración
-
-## Tecnologías
-- Java
-
-## Como Ejecutar
-- Los Pasos para ejecutar el proyecto-ñ
+Explica brevemente qué problema resuelve tu sistema y por qué es útil.
+## Tecnologías Utilizadas
+* C# (.NET Core / Framework)
+* Base de Datos: [MySQL / SQL Server / etc.]
+* Visual Studio 2022
+## Instalación y Configuración
+1. Clona el repositorio: `git clone [URL del repo]`
+2. Abre el archivo `.sln` en Visual Studio.
+3. Configura la cadena de conexión en el archivo `App.config` o `Web.config`.
+4. Ejecuta el script de la base de datos incluido en la carpeta `/db`.
+## Demostración
+![Captura del Formulario Principal](img/screenshot1.png)
+## Integrantes
+* [Nombre del Alumno 1] - [Número de Cuenta]
